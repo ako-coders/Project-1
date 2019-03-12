@@ -1,0 +1,61 @@
+zed_m and js_nepal Project/Assignment
+
+PHP website
+
+Home Page-
+On Home Page Make it display info about us and prices
+(i will give you prices for stuff)
+In Top Left Of Top Right Have it say login or register and when clicked
+login lets them login and then when they have login(d) in it redirects them to
+the index.html
+When they click register lets them register and then wehen they click the
+register button its takes them to the login page and then they can login
+
+
+Pages after The Login and register-
+Create a nice navigation bar and on that navigation bar display
+home page,services page,contact page and profile
+
+Home Page-
+Just display the necessary stuff 
+
+Services Page-
+Make Nice boxes and display these services with a purchase button and when
+purchased it sends us a notification to our email and tells us what they 
+purchased. Add bitcoin, paypal etc
+
+Contact Page-
+Make a really nice contact page that suites the website
+(I will give you emails and stuff later)
+
+Profile Page-
+Tells them when they registered
+What they last purchased
+The date and time
+displays their username
+
+Login and register-
+*Register page: They register with the necessary stuff and the can create a
+username
+*Login: They use that username and password to login
+
+
+
+
+
+Admin Portal:
+Displays Purchases
+Displays all registered users
+Make it if we want to add something else or edit pages we can do that through
+admin portal (i dont know if thats possible)
+And display all the nessacary stuff
+Lets us manage our paypal email(incase we have to change)
+
+
+
+
+Details:
+On contact Display these details:
+https://discord.gg/RSuWWsp
+akocoders397@gmail.com
+Instagram: ako_coders
